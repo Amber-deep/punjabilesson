@@ -1,0 +1,29 @@
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+}
+.sec1{
+    background-color: #F2F7FD;
+
+}
+.home{
+    text-decoration: none !important;
+    color: black !important;
+
+}
+.btn-clr{
+    background-color: #1A064F !important;
+    color: white !important;
+}
+
+/* footer section */
+.foot-sec{
+    background: #1A064F;
+
+}
+.footer-text{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+}

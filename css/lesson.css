@@ -1,0 +1,46 @@
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+    overflow: hidden;
+}
+
+/* breadcrumb start */
+.sec1{
+    background-color: #F2F7FD;
+
+}
+.home{
+    text-decoration: none !important;
+    color: black !important;
+
+}
+/* breadcrumb end */
+
+/* first section  start*/
+.bord{
+    background: #FFFFFF;
+    border: 1px solid #E9E9E9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 33px;
+}
+.santhiya{
+    text-decoration: none;
+    color: black;
+    
+}
+/* frist section end */
+
+
+
+/* footer start */
+.footer-text{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+}
+.foot-sec{
+    background: #1A064F;
+}
+
+/* footer end */

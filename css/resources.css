@@ -1,0 +1,81 @@
+/* nav section */
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+}
+/* end */
+
+/* breadcrumb start */
+.sec1{
+    background-color: #F2F7FD;
+
+}
+.home{
+    text-decoration: none !important;
+    color: black !important;
+
+}
+/* breadcrumb end */
+
+
+/* first section */
+.pdf{
+    text-decoration: none;
+    background-color: #2E4057;
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+}
+#pdf{
+    display: block;
+}
+#images{
+    display: none;
+}
+#videos{
+    display: none;
+}
+.imgs{
+    text-decoration: none;
+    background-color: "white";
+    font-weight: 600;
+    font-size: 24px;
+    border-radius: 40px;
+    color: #2E4057;
+    cursor: pointer;
+}
+.video{
+    text-decoration: none;
+    background-color: "white";
+    font-weight: 600;
+    font-size: 24px;
+    border-radius: 40px;
+    color: #2E4057;
+    cursor: pointer;
+}
+.box-work{
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0px 4px 15px rgba(179, 179, 179, 0.25);
+    border-radius: 27px;
+}
+.rup{
+    color: #DA1111;
+
+}
+/* end */
+
+/* footer section */
+.foot-sec{
+    background: #1A064F;
+
+}
+.footer-text{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+}
+/* end */

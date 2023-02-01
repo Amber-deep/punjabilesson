@@ -1,0 +1,51 @@
+/* nav-bar start */
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+}
+/* end */
+/* section start */
+.sec1{
+    background-color: #F2F7FD; 
+}
+/* end */
+
+/* first sec */
+.bg-cl{
+    background: #F5F5F5;
+}
+.about{
+    border-radius: 50px;
+}
+.free{
+    color: #409F06;
+}
+.colorr{
+    background-color: #1A064F !important;
+    border-radius: 21px !important;
+}
+.btn-clr{
+    background-color: #1A064F !important;
+    color: white !important;
+}
+/* end */
+
+/* footer start */
+.footer-text{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+}
+.foot-sec{
+    background: #1A064F;
+}
+.d-flex{
+    display: inline;
+    margin: auto;
+}
+.marg{
+    margin: auto;
+    /* text-align: center; */
+}
+/* end */

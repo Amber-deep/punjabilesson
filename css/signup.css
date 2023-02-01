@@ -1,0 +1,26 @@
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+}
+.sec{
+    background: #F1F1F1;
+}
+/* breadcrumb start */
+.sec1{
+    background-color: #F2F7FD;
+
+}
+.home{
+    text-decoration: none !important;
+    color: black !important;
+}
+/* breadcrumb end */
+.roww{
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    border-radius: 56px;
+}
+.btn-color{
+    background: #2E4057 !important;
+    color: white !important;
+}

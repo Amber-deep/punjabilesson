@@ -1,0 +1,39 @@
+.nav-color{
+    background-color: #F2F7FD;
+    border-bottom: 1px solid #E4E4E4;
+    overflow: hidden !important;
+}
+.sec{
+    background: #F1F1F1;
+}
+/* breadcrumb start */
+.sec1{
+    background-color: #F2F7FD;
+
+}
+.home{
+    text-decoration: none !important;
+    color: black !important;
+
+}
+/* breadcrumb end */
+.login1{
+    background-color: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    border-radius: 12px;
+}
+.button-work{
+    background-color: #2E4057 !important;
+    border-radius: 12px !important;
+}
+.button-work1{
+    background-color: #F2F7FD !important;
+    border-radius: 12px !important;
+
+}
+
+.btn-colors{
+    background-color: #2E4057 !important;
+    color: white !important;
+    font-size: 19px !important;
+}
